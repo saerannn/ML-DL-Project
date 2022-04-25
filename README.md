@@ -4,7 +4,7 @@
 
 - 작성자: 임새란
 - 최종 수정일: 20220425
-    - Update 사항은 top-level의 **"`Update_Note.md`"** 파일에서 확인할수있습니다.
+    - Update 사항은 top-level의 **`Update_Note.md`** 파일에서 확인할수있습니다.
     
 
 
@@ -14,7 +14,7 @@
 
 본 repository는 머신러닝과 딥러닝을 활용한 프로젝트를 업로드합니다.
 
-각 프로젝트들은 **“`Project_번호_프로젝트명`”** 의 명칭을 가진 directory에 있습니다. (ex.Project_01_Building Classification Models with Sklearn)
+각 프로젝트들은 **`Project_번호_프로젝트명`** 의 명칭을 가진 directory에 있습니다. (ex.Project_01_Building Classification Models with Sklearn)
 
 프로젝트별 설명은 아래 표에서 확인할 수 있습니다.
 
