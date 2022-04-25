@@ -14,7 +14,7 @@
 
 본 repository는 머신러닝과 딥러닝에 관한 프로젝트를 업로드합니다.
 
-각 프로젝트들은 **“`Project_번호_프로젝트명`”**의 명칭을 가진 directory에 있습니다. (ex.Project_01_Building Classification Models with Sklearn)
+각 프로젝트들은 **“`Project_번호_프로젝트명`”** 의 명칭을 가진 directory에 있습니다. (ex.Project_01_Building Classification Models with Sklearn)
 
 프로젝트별 설명은 아래 표에서 확인할수있습니다. 
 
