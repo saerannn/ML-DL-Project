@@ -26,3 +26,4 @@
 | **Index** | **Directory Name** | **Directory Description** | **최종수정일** |
 | --- | --- | --- | --- |
 | 1 | Project_01_Building Classification Models with Sklearn | Sklearn을 이용하여 분류모델을 만드는 프로젝트입니다. (세개의 세부 프로젝트가 있습니다.)<br>- Digit Classification: 손글씨 이미지 분류</br> - Wine Classification: 와인종류 분류</br> - Breast Cancer Classification: 유방암 악성여부 분류</br>  | 20220428 |
+| 2 | Project_02_Building Regression Models | 회귀모델을 구현해보는 프로젝트입니다. (두개의 세부 프로젝트가 있습니다.)<br>- load_diabetes: 당뇨병 진행도 예측</br> - Wine Classification: 자전거 대여량 예측 | 20220503 |
