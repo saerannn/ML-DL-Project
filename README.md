@@ -28,4 +28,4 @@
 | 1 | Project_01_Building Classification Models with Sklearn | Sklearn을 이용하여 분류모델을 만드는 프로젝트입니다. (세개의 세부 프로젝트가 있습니다.)<br>- Digit Classification: 손글씨 이미지 분류</br> - Wine Classification: 와인종류 분류</br> - Breast Cancer Classification: 유방암 악성여부 분류</br>  | 20220428 |
 | 2 | Project_02_Building Regression Models | 회귀모델을 구현해보는 프로젝트입니다. (두개의 세부 프로젝트가 있습니다.)<br>- Diabetes Progression Prediction: 당뇨병 진행도 예측</br> -Bike Sharing Demand Prediction: 자전거 대여량 예측 | 20220503 |
 | 3 | Project_03_Time Series Forecasting: Predicting Stock Prices With ARIMA Model | 시계열 예측: ARIMA 모델로 주가(삼성, 애플, 카카오) 예측하는 프로젝트입니다.   | 20220505 |
-| 4 | Project 04. End to End ML Project : Predicting Housing Prices With Advanced Regression | Kaggle의 미국 매사추세츠주의 주택 가격 데이터(Boston Housing 1970)를 활용해 주택 가격을 예측하는 프로젝트입니다. 프로젝트 문제정의부터 모델평가까지 머신러닝 프로젝트의 처음과 끝을 경험하는것을 목표로 합니다. </br>| 20220509 |
+| 4 | Project 04. Building End to End ML Project : Predicting Housing Prices With Advanced Regression Techniques | Kaggle의 미국 매사추세츠주의 주택 가격 데이터(Boston Housing 1970)를 활용해 주택 가격을 예측하는 프로젝트입니다. 프로젝트 문제정의부터 모델평가까지, 머신러닝 프로젝트의 전 과정을 진행해봅니다. </br>| 20220509 |
